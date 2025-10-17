@@ -1,3 +1,8 @@
+# docker地址
+
+https://hub.docker.com/r/217heidai/nestingdns
+
+
 # NestingDNS
 DNS 三大神器 [AdGuardHome](https://github.com/AdguardTeam/AdGuardHome)、[MosDNS](https://github.com/IrineSistiana/mosdns)、[SmartDNS](https://github.com/pymumu/smartdns)，该如何选择？  
 不，小孩子才做选择，我全都要。  
@@ -88,4 +93,10 @@ SmartDNS 配置文件为 `$HOME/nestingdns/etc/conf/smartdns.conf`。
 # 测试方法
 ```
 dig @ip -p 4053 www.baidu.com
+
+
+
+
+
+
 ```
